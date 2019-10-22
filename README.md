@@ -7,6 +7,5 @@
 * The architecture was completely build using Robot operating system 
 
 ## Images 
-![robot-1](https://user-images.githubusercontent.com/21152256/65949005-ffb7c780-e458-11e9-8a67-e3025e69b013.jpg)
 ![robot-2](https://user-images.githubusercontent.com/21152256/65949008-01818b00-e459-11e9-83e1-401f6f1152fa.JPG)
 ![robot-3](https://user-images.githubusercontent.com/21152256/65949012-034b4e80-e459-11e9-9489-bbd472898b84.JPG)
